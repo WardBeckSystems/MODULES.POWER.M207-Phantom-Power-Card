@@ -1,0 +1,16 @@
+{
+ "code": "M207",
+ "connector": "RTO-144",
+ "type": "M207 Phantom Power Card",
+ "series": null,
+ "contacts": "",
+ "verified": null,
+ "derived": false,
+ "variant_of": null,
+ "pins": [],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Engineering/RTO-144/M207/M207.rto144.json"
+ ]
+}
