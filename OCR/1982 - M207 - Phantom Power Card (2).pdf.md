@@ -26,7 +26,7 @@ Wiki page: [M207](../../../../PAGES/M207.md)
 - **Circles and arcs:** 3 circles, 0 arcs; largest r 2.1 @ (50.8, 300.0), r 2.1 @ (143.6, 365.6), r 1.6 @ (121.0, 233.6)
 - **Words (OCR):** 44 in 25 lines: WAFlD ~BEC · YSTEMS LTD. · TABLE OF CONTENTS · M207 · Io8 · CONVERTER · SECT ON · PAGE · Clr<;u lt Descr tion · Pa tll · 2_1 · 2_2
 
-Every curve, box, word and wire group: [1982 - M207 - Phantom Power Card (2) p1 (traced).json](../MANUALS/1982%20-%20M207%20-%20Phantom%20Power%20Card%20(2)%20p1%20(traced).json) (the CAD file: `1982 - M207 - Phantom Power Card (2) p1 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M207 - Phantom Power Card (2) p1 (traced).json](../MANUALS/1982%20-%20M207%20-%20Phantom%20Power%20Card%20%282%29%20p1%20%28traced%29.json) (the CAD file: `1982 - M207 - Phantom Power Card (2) p1 (traced).dxf`).
 
 ### Page 2
 
@@ -36,7 +36,7 @@ Every curve, box, word and wire group: [1982 - M207 - Phantom Power Card (2) p1 
 - **Circles and arcs:** 3 circles, 0 arcs; largest r 1.6 @ (130.8, 314.3), r 1.6 @ (250.1, 306.8), r 1.6 @ (261.1, 267.4)
 - **Words (OCR):** 176 in 71 lines: WARO·SECl< SYSTEMS LTO · IRCUIT DESCRIPTION · M20 PHANT OM OWER SUPPLY · The M207 Pha om Po wer Su · is · 24 ol · 48 vol de · to · do; o;or'!ver ler. · ach ieved · th · push -pull r"la"al
 
-Every curve, box, word and wire group: [1982 - M207 - Phantom Power Card (2) p2 (traced).json](../MANUALS/1982%20-%20M207%20-%20Phantom%20Power%20Card%20(2)%20p2%20(traced).json) (the CAD file: `1982 - M207 - Phantom Power Card (2) p2 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M207 - Phantom Power Card (2) p2 (traced).json](../MANUALS/1982%20-%20M207%20-%20Phantom%20Power%20Card%20%282%29%20p2%20%28traced%29.json) (the CAD file: `1982 - M207 - Phantom Power Card (2) p2 (traced).dxf`).
 
 ### Page 3
 
@@ -46,7 +46,7 @@ Every curve, box, word and wire group: [1982 - M207 - Phantom Power Card (2) p2 
 - **Words (OCR):** 114 in 70 lines: WARD-BECK SYSTEMS LTC · PARTS LIS · "'201 24 · to 48V CONVERT ER · PART · DESCRIPTION · MF PAR NUMBER · Capaci1 0r · 100 uF 40 · Ph ilip", · 2200 · 30
 - **Title block:** (12, 397)–(118, 420) mm: WARD-BECK SYSTEMS LTC
 
-Every curve, box, word and wire group: [1982 - M207 - Phantom Power Card (2) p3 (traced).json](../MANUALS/1982%20-%20M207%20-%20Phantom%20Power%20Card%20(2)%20p3%20(traced).json) (the CAD file: `1982 - M207 - Phantom Power Card (2) p3 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M207 - Phantom Power Card (2) p3 (traced).json](../MANUALS/1982%20-%20M207%20-%20Phantom%20Power%20Card%20%282%29%20p3%20%28traced%29.json) (the CAD file: `1982 - M207 - Phantom Power Card (2) p3 (traced).dxf`).
 
 ### Page 4
 
@@ -56,7 +56,7 @@ Every curve, box, word and wire group: [1982 - M207 - Phantom Power Card (2) p3 
 - **Circles and arcs:** 3 circles, 0 arcs; largest r 2.1 @ (95.4, 322.5), r 1.7 @ (100.1, 39.1), r 1.6 @ (211.4, 38.6)
 - **Words (OCR):** 65 in 36 lines: WARO · eCK YSTEMS · LTO · ARTS LIST · /1420 24V 10 48 CONVERTER · PART · DESCR IP TI ON · NUMBER · 1!2W · lor- · lips · Resistor 1/4W
 
-Every curve, box, word and wire group: [1982 - M207 - Phantom Power Card (2) p4 (traced).json](../MANUALS/1982%20-%20M207%20-%20Phantom%20Power%20Card%20(2)%20p4%20(traced).json) (the CAD file: `1982 - M207 - Phantom Power Card (2) p4 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M207 - Phantom Power Card (2) p4 (traced).json](../MANUALS/1982%20-%20M207%20-%20Phantom%20Power%20Card%20%282%29%20p4%20%28traced%29.json) (the CAD file: `1982 - M207 - Phantom Power Card (2) p4 (traced).dxf`).
 
 ### Page 5
 
@@ -67,7 +67,7 @@ Every curve, box, word and wire group: [1982 - M207 - Phantom Power Card (2) p4 
 - **Closed boxes:** 15; named: io ie; io
 - **Words (OCR):** 38 in 25 lines: WARC-BECK SYSTEMB LTC · CONNECTOR LA YOU · 104201 24V tu · 48V CONV ERT ER · .21oV SUPPLY VOLTAGE · ·48 PHANTOM POWER · Ne · NO · NO · Ne · NO · Ne
 
-Every curve, box, word and wire group: [1982 - M207 - Phantom Power Card (2) p5 (traced).json](../MANUALS/1982%20-%20M207%20-%20Phantom%20Power%20Card%20(2)%20p5%20(traced).json) (the CAD file: `1982 - M207 - Phantom Power Card (2) p5 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M207 - Phantom Power Card (2) p5 (traced).json](../MANUALS/1982%20-%20M207%20-%20Phantom%20Power%20Card%20%282%29%20p5%20%28traced%29.json) (the CAD file: `1982 - M207 - Phantom Power Card (2) p5 (traced).dxf`).
 
 ### Page 6
 
@@ -81,7 +81,7 @@ Every curve, box, word and wire group: [1982 - M207 - Phantom Power Card (2) p5 
 - **Title block:** (285, 1)–(432, 68) mm: REVISION · ca APP. · ISSUE DATE · [\NBS] WARD-BECK SYSTEMS · ps · BS · DRN · M207 · ENG. · G;e · 24v TO 48v CON ERT ER · tp · CKD. · SC EM ATIC · APP · ht · SCALE · ISSUE · 207- 02 001
 - **Wiring (first pass):** 30 connected wire groups from 316 runs; labelled ends: 214 mm → 21p; 144 mm → -25, CIS; 116 mm → ell, 2'2/, CIO, Z2/t.3oJ; 104 mm → ell, 2'2/, CIO, Z2/t.3oJ; 83 mm → loa~/4o..
 
-Every curve, box, word and wire group: [1982 - M207 - Phantom Power Card (2) p6 (traced).json](../MANUALS/1982%20-%20M207%20-%20Phantom%20Power%20Card%20(2)%20p6%20(traced).json) (the CAD file: `1982 - M207 - Phantom Power Card (2) p6 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M207 - Phantom Power Card (2) p6 (traced).json](../MANUALS/1982%20-%20M207%20-%20Phantom%20Power%20Card%20%282%29%20p6%20%28traced%29.json) (the CAD file: `1982 - M207 - Phantom Power Card (2) p6 (traced).dxf`).
 
 ### Page 7
 
@@ -93,7 +93,7 @@ Every curve, box, word and wire group: [1982 - M207 - Phantom Power Card (2) p6 
 - **Words (OCR):** 59 in 47 lines: 100/40... · 47 · FI · ij · ·25 · II · III · 2.'.1'403"'7 tl · Jf QI · 2,,)..,1<4037"'" · 2W '2)O~ · if
 - **Title block:** (276, 1)–(432, 72) mm: ISSUE DATE · REV ISION · ca APP. · [\NBS] WARD-SECK SYSTEMS · ps · BS · DRN. · .::leE> · M207 · ENG. · 6£13 · 24'1 TO 48'1 CONVERlER · tp · CKD. · COMPONENT · A,YOUT · APP. · ht · SCALE · ISSUE
 
-Every curve, box, word and wire group: [1982 - M207 - Phantom Power Card (2) p7 (traced).json](../MANUALS/1982%20-%20M207%20-%20Phantom%20Power%20Card%20(2)%20p7%20(traced).json) (the CAD file: `1982 - M207 - Phantom Power Card (2) p7 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M207 - Phantom Power Card (2) p7 (traced).json](../MANUALS/1982%20-%20M207%20-%20Phantom%20Power%20Card%20%282%29%20p7%20%28traced%29.json) (the CAD file: `1982 - M207 - Phantom Power Card (2) p7 (traced).dxf`).
 
 ## Full text
 

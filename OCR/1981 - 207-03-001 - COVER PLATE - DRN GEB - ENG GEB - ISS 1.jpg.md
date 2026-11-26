@@ -35,7 +35,7 @@ Wiki page: [M207](../../../../PAGES/M207.md)
 - **Words (OCR):** 46 in 36 lines: 6.15O · 457 · Ttp · 20 · 25 · 570 · 1.470 · 1.407 · 2.94 · 125 · 2 HOLES · 125 DIA
 - **Title block:** (279, 11)–(432, 79) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN_ · GEB · ENG.GEB"%1 · COVER PLATE · CKD. · SCALE · 207-03 · ISSUE · 5.01s
 
-Every curve, box, word and wire group: [1981 - 207-03-001 - COVER PLATE - DRN GEB - ENG GEB - ISS 1 (traced).json](../MECHANICAL/1981%20-%20207-03-001%20-%20COVER%20PLATE%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%201%20(traced).json) (the CAD file: `1981 - 207-03-001 - COVER PLATE - DRN GEB - ENG GEB - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1981 - 207-03-001 - COVER PLATE - DRN GEB - ENG GEB - ISS 1 (traced).json](../MECHANICAL/1981%20-%20207-03-001%20-%20COVER%20PLATE%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1981 - 207-03-001 - COVER PLATE - DRN GEB - ENG GEB - ISS 1 (traced).dxf`).
 
 ## Full text
 

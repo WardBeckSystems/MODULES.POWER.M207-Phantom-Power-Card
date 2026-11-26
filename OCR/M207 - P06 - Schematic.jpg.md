@@ -15,6 +15,20 @@ Wiki page: [M207](../../../../PAGES/M207.md)
 - **Size:** 70,169 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic, size B (assumed) 432 × 276 mm, 900 × 575 px traced (0.480 mm/px)
+- **Ink extent:** 28–432 mm across, 0–276 mm up
+- **Outlines:** line 252 rings, 2,718 straight (8,561 mm) / 563 curved (1,420 mm); text 68 rings, 527 straight (992 mm) / 154 curved (417 mm); tb 22 rings, 186 straight (458 mm) / 35 curved (89.4 mm)
+- **Centre lines:** 4,268 paths (62 closed); straight 6,540 mm, curved 46.5 mm; horizontal 2,486 mm, vertical 1,395 mm, diagonal 2,660 mm
+- **Circles and arcs:** 0 circles, 5 arcs
+- **Closed boxes:** 20 (6 in the title block)
+- **Words (OCR):** 17 in 15 lines: CPRTE · -052 · NOTE · ALii · 88, · ccuucy · NoTE · ISSUE JDATE · REviSIOH · WBS WAAD-BECK sybtenB · M207 · 24v TO 48v CONVERTER
+- **Title block:** (292, 0)–(432, 69) mm: ISSUE JDATE · REviSIOH · WBS WAAD-BECK sybtenB · M207 · 24v TO 48v CONVERTER · SCHE · scale · 207-02
+- **Wiring (first pass):** 30 connected wire groups from 402 runs; labelled ends: 215 mm → ALii; 156 mm → 88,; 69 mm → ALii; 55 mm → ALii; 52 mm → 88,
+
+Every curve, box, word and wire group: [M207 - P06 - Schematic (traced).json](../SCHEMATICS/M207%20-%20P06%20-%20Schematic%20%28traced%29.json) (the CAD file: `M207 - P06 - Schematic (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 2 words corrected)

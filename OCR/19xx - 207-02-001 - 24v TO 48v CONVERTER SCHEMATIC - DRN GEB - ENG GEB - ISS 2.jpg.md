@@ -34,7 +34,7 @@ Wiki page: [M207](../../../../PAGES/M207.md)
 - **Title block:** (285, 1)–(432, 69) mm: (ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN 6eb · M207 · ENG 668 · 24v TO 48v CONVERTER · CKD_ · SC HEMATIC · APP · SCALE · ISSUE · 207-02-001
 - **Wiring (first pass):** 28 connected wire groups from 313 runs; labelled ends: 350 mm → 204037, 33k, 3k, 2202p; 245 mm → 84, 2-2/01, c8, Cs; 172 mm → cic; 97 mm → 2-2/01, 84, 22/13-; 67 mm → C3, 1N4003, RII, Riz
 
-Every curve, box, word and wire group: [19xx - 207-02-001 - 24v TO 48v CONVERTER SCHEMATIC - DRN GEB - ENG GEB - ISS 2 (traced).json](../SCHEMATICS/19xx%20-%20207-02-001%20-%2024v%20TO%2048v%20CONVERTER%20SCHEMATIC%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%202%20(traced).json) (the CAD file: `19xx - 207-02-001 - 24v TO 48v CONVERTER SCHEMATIC - DRN GEB - ENG GEB - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 207-02-001 - 24v TO 48v CONVERTER SCHEMATIC - DRN GEB - ENG GEB - ISS 2 (traced).json](../SCHEMATICS/19xx%20-%20207-02-001%20-%2024v%20TO%2048v%20CONVERTER%20SCHEMATIC%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%202%20%28traced%29.json) (the CAD file: `19xx - 207-02-001 - 24v TO 48v CONVERTER SCHEMATIC - DRN GEB - ENG GEB - ISS 2 (traced).dxf`).
 
 ## Full text
 

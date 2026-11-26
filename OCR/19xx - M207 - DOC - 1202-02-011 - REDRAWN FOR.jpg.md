@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (283, 1)–(432, 78) mm: SEP82 · REDRAWN FOR T1202A JP · ISSUE DATE · REVISION · APP · WBS WARD-BECK sySTEMS · DRN: · JP SEPe2 · ENG_ · Mew · INPUT CHANNEL · CKD: · SCHEMATIC · APP · SCALE · ISSUE · 1202 02 - 011
 - **Wiring (first pass):** 36 connected wire groups from 237 runs; labelled ends: 594 mm → ARE, WIRED, 6F, CHANNEL; 406 mm → ARE, 2B, CHANNEL, 13P; 65 mm → CHANNEL, FADER, (-15dB)[3199; 64 mm → #22 RD, #22 BLK, PIN4,5, 20; 51 mm → To, PIN 20
 
-Every curve, box, word and wire group: [19xx - M207 - DOC - 1202-02-011 - REDRAWN FOR (traced).json](../SCHEMATICS/19xx%20-%20M207%20-%20DOC%20-%201202-02-011%20-%20REDRAWN%20FOR%20(traced).json) (the CAD file: `19xx - M207 - DOC - 1202-02-011 - REDRAWN FOR (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M207 - DOC - 1202-02-011 - REDRAWN FOR (traced).json](../SCHEMATICS/19xx%20-%20M207%20-%20DOC%20-%201202-02-011%20-%20REDRAWN%20FOR%20%28traced%29.json) (the CAD file: `19xx - M207 - DOC - 1202-02-011 - REDRAWN FOR (traced).dxf`).
 
 ## Full text
 
