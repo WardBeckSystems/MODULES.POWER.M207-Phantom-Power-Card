@@ -1,0 +1,85 @@
+{
+ "drawing": "Modules/POWER/M207/SCHEMATICS/M207 - P07 - Component Layout.jpg",
+ "version": 1,
+ "trace": "_traces/4dba8ed684a7631b.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [900, 614],
+  "mm": [431.8, 294.6],
+  "mm_per_px": 0.47978
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [62.4, 0.0, 431.8, 226.0],
+ "outlines": {
+  "line": {"rings": 338, "straight": {"n": 2458, "mm": 7346.3}, "curved": {"n": 601, "mm": 1319.5}},
+  "text": {"rings": 81, "straight": {"n": 574, "mm": 1038.7}, "curved": {"n": 198, "mm": 451.9}},
+  "tb": {"rings": 24, "straight": {"n": 196, "mm": 432.4}, "curved": {"n": 47, "mm": 97.6}}
+ },
+ "circles": [
+  {"c": [119.1, 116.6], "r": 8.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [126.1, 175.2], "r": 5.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [283.2, 174.1], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [125.6, 143.5], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [205.7, 142.4], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [205.8, 174.2], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [304.7, 161.6], "r": 3.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [88.9, 132.0], "r": 3.4, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.9},
+  {"c": [90.0, 195.6], "r": 3.4, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8}
+ ],
+ "boxes": [
+  {"mm": [220.7, 207.3, 278.8, 218.8], "w": 58.1, "h": 11.5, "from": "ring"},
+  {"mm": [155.0, 214.5, 157.4, 216.9], "w": 2.4, "h": 2.4, "from": "ring"},
+  {"mm": [261.0, 209.2, 276.8, 216.4], "w": 15.8, "h": 7.2, "from": "ring"},
+  {"mm": [250.4, 210.1, 252.8, 212.5], "w": 2.4, "h": 2.4, "from": "ring"},
+  {"mm": [296.0, 198.9, 298.4, 202.0], "w": 2.4, "h": 3.1, "from": "ring"},
+  {"mm": [118.5, 186.2, 120.9, 188.6], "w": 2.4, "h": 2.4, "from": "ring"},
+  {"mm": [198.6, 184.7, 201.1, 187.1], "w": 2.5, "h": 2.4, "from": "ring"},
+  {"mm": [206.8, 184.7, 209.3, 187.1], "w": 2.5, "h": 2.4, "from": "ring"},
+  {"mm": [123.3, 174.6, 126.2, 177.0], "w": 2.9, "h": 2.4, "from": "ring"},
+  {"mm": [269.6, 153.0, 272.5, 155.4], "w": 2.9, "h": 2.4, "from": "ring"},
+  {"mm": [348.8, 61.9, 418.8, 68.6], "w": 70.0, "h": 6.7, "from": "ring", "words": ["REVISION"], "in_title_block": true},
+  {"mm": [319.4, 61.9, 333.4, 68.1], "w": 14.0, "h": 6.2, "from": "ring", "in_title_block": true},
+  {"mm": [333.9, 61.9, 347.8, 68.1], "w": 13.9, "h": 6.2, "from": "ring", "in_title_block": true},
+  {"mm": [284.5, 34.5, 319.1, 40.8], "w": 34.5, "h": 6.2, "from": "ring", "words": ["DrN"], "in_title_block": true},
+  {"mm": [284.5, 27.3, 319.1, 33.6], "w": 34.5, "h": 6.2, "from": "ring", "words": ["ENG"], "in_title_block": true},
+  {"mm": [284.5, 20.2, 319.1, 26.4], "w": 34.5, "h": 6.2, "from": "ring", "words": ["CKD"], "in_title_block": true},
+  {"mm": [284.5, 13.0, 319.1, 19.2], "w": 34.5, "h": 6.2, "from": "ring", "in_title_block": true}
+ ],
+ "text": {
+  "words": 12,
+  "lines": [
+   {"mm": [372.8, 61.9, 395.8, 67.8], "text": "REVISION"},
+   {"mm": [293.1, 46.5, 428.4, 56.1], "text": "WBS WAAD-BECK SYITEMS"},
+   {"mm": [284.5, 34.1, 296.0, 41.0], "text": "DrN"},
+   {"mm": [284.5, 27.3, 295.1, 33.2], "text": "ENG"},
+   {"mm": [367.0, 29.3, 387.2, 36.7], "text": "M207"},
+   {"mm": [284.5, 19.7, 296.0, 25.5], "text": "CKD"},
+   {"mm": [334.4, 23.5, 415.0, 30.4], "text": "4v T0 48v CONVERTER"},
+   {"mm": [337.3, 10.1, 397.3, 28.2], "text": "COMPONENEA"},
+   {"mm": [294.1, 6.2, 310.4, 12.1], "text": "SCALE"},
+   {"mm": [352.6, 1.4, 394.9, 8.9], "text": "207-06-001"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [275.9, 0.4, 431.8, 73.5],
+  "from": "title-block words (training set)",
+  "text": ["REVISION", "WBS WAAD-BECK SYITEMS", "DrN", "ENG", "M207", "CKD", "4v T0 48v CONVERTER", "COMPONENEA", "SCALE", "207-06-001"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout, size B (assumed) 432 × 295 mm, 900 × 614 px traced (0.480 mm/px)",
+  "- **Ink extent:** 62–432 mm across, 0–226 mm up",
+  "- **Outlines:** line 338 rings, 2,458 straight (7,346 mm) / 601 curved (1,320 mm); text 81 rings, 574 straight (1,039 mm) / 198 curved (452 mm); tb 24 rings, 196 straight (432 mm) / 47 curved (97.6 mm)",
+  "- **Circles and arcs:** 9 circles, 0 arcs; largest r 8.1 @ (119.1, 116.6), r 5.1 @ (126.1, 175.2), r 5.0 @ (283.2, 174.1), r 5.0 @ (125.6, 143.5)",
+  "- **Closed boxes:** 17 (7 in the title block)",
+  "- **Words (OCR):** 12 in 10 lines: REVISION · WBS WAAD-BECK SYITEMS · DrN · ENG · M207 · CKD · 4v T0 48v CONVERTER · COMPONENEA · SCALE · 207-06-001",
+  "- **Title block:** (276, 0)–(432, 74) mm: REVISION · WBS WAAD-BECK SYITEMS · DrN · ENG · M207 · CKD · 4v T0 48v CONVERTER · COMPONENEA · SCALE · 207-06-001"
+ ]
+}

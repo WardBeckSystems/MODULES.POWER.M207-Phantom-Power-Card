@@ -1,0 +1,126 @@
+{
+ "drawing": "Modules/POWER/M207/MECHANICAL/1981 - 207-03-001 - COVER PLATE - DRN GEB - ENG GEB - ISS 1.jpg",
+ "version": 1,
+ "trace": "_traces/0b6028289a1886e1.svg",
+ "sheet": {
+  "number": "B 207-03-001",
+  "title": "COVER PLATE",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 9.3, 430.9, 297.9],
+ "outlines": {
+  "line": {"rings": 214, "straight": {"n": 2938, "mm": 7533.2}, "curved": {"n": 385, "mm": 509.8}},
+  "text": {"rings": 286, "straight": {"n": 2053, "mm": 2467.5}, "curved": {"n": 594, "mm": 918.5}},
+  "tb": {"rings": 16, "straight": {"n": 139, "mm": 260.3}, "curved": {"n": 19, "mm": 29.2}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 776, "straight": {"n": 864, "mm": 2987.4}, "curved": {"n": 19, "mm": 20.5}},
+   "text": {"paths": 1509, "straight": {"n": 2067, "mm": 1663.7}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 439, "straight": {"n": 473, "mm": 1055.3}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 44,
+  "orientation": {"horizontal": {"n": 852, "mm": 2775.9}, "vertical": {"n": 804, "mm": 1436.8}, "diagonal": {"n": 1748, "mm": 1493.7}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [131.1, 183.1], "r": 1.6, "kind": "circle", "span": 360, "from": ["centre line", "outline (one edge)"]},
+  {"c": [131.4, 135.1], "r": 1.5, "kind": "arc", "span": 181, "from": ["centre line"], "start": 95},
+  {"c": [14.2, 10.8], "r": 1.1, "kind": "arc", "span": 180, "from": ["centre line"], "start": 270},
+  {"c": [111.3, 165.0], "r": 0.9, "kind": "arc", "span": 184, "from": ["centre line"], "start": 212}
+ ],
+ "boxes": [
+  {"mm": [346.5, 67.4, 411.5, 73.8], "w": 65.0, "h": 6.5, "from": "ring", "words": ["REVISION"], "in_title_block": true},
+  {"mm": [412.2, 67.8, 424.5, 73.8], "w": 12.3, "h": 6.0, "from": "ring", "words": ["APP"], "in_title_block": true},
+  {"mm": [320.0, 67.1, 332.5, 73.2], "w": 12.5, "h": 6.0, "from": "ring", "words": ["ISSUE"], "in_title_block": true},
+  {"mm": [333.1, 67.1, 345.9, 73.2], "w": 12.7, "h": 6.1, "from": "ring", "words": ["DATE"], "in_title_block": true},
+  {"mm": [287.1, 48.6, 424.7, 66.9], "w": 137.5, "h": 18.4, "from": "ring", "words": ["WBS", "WARD-BECK", "SYSTEMS"], "in_title_block": true},
+  {"mm": [234.0, 37.9, 286.1, 66.1], "w": 52.1, "h": 28.1, "from": "ring", "words": ["MAT'L", "ALUM", "16", "GA:"]},
+  {"mm": [320.1, 22.5, 424.9, 49.0], "w": 104.8, "h": 26.6, "from": "ring", "words": ["COVER", "PLATE"], "in_title_block": true},
+  {"mm": [287.1, 41.9, 319.5, 48.1], "w": 32.4, "h": 6.3, "from": "ring", "words": ["GEB", "DRN_"], "in_title_block": true},
+  {"mm": [287.1, 35.2, 319.5, 41.5], "w": 32.4, "h": 6.3, "from": "ring", "words": ["ENG.GEB\"%1"], "in_title_block": true},
+  {"mm": [287.1, 28.7, 319.7, 34.8], "w": 32.6, "h": 6.0, "from": "ring", "words": ["CKD."], "in_title_block": true},
+  {"mm": [287.4, 22.0, 319.7, 28.3], "w": 32.4, "h": 6.3, "from": "ring", "words": ["APP"], "in_title_block": true}
+ ],
+ "text": {
+  "words": 46,
+  "lines": [
+   {"mm": [194.5, 221.9, 214.0, 227.5], "text": "6.15O"},
+   {"mm": [267.5, 214.4, 276.6, 219.9], "text": "457"},
+   {"mm": [270.7, 210.1, 280.9, 214.4], "text": "Ttp"},
+   {"mm": [110.3, 205.8, 117.9, 210.6], "text": "20"},
+   {"mm": [301.4, 202.5, 309.6, 208.0], "text": "25"},
+   {"mm": [106.7, 188.5, 117.4, 192.8], "text": "570"},
+   {"mm": [312.2, 181.4, 327.3, 186.6], "text": "1.470"},
+   {"mm": [297.1, 177.0, 310.0, 181.4], "text": "1.407"},
+   {"mm": [326.2, 159.3, 339.8, 164.6], "text": "2.94"},
+   {"mm": [298.2, 144.7, 308.5, 150.2], "text": "125"},
+   {"mm": [76.9, 109.0, 100.6, 114.5], "text": "2 HOLES"},
+   {"mm": [78.6, 104.3, 101.7, 109.8], "text": "125 DIA"},
+   {"mm": [295.4, 106.0, 304.0, 112.5], "text": "25"},
+   {"mm": [72.1, 66.9, 95.2, 72.4], "text": "NeTE :"},
+   {"mm": [320.4, 68.0, 345.2, 72.3], "text": "ISSUE DATE"},
+   {"mm": [370.1, 68.0, 388.8, 72.3], "text": "REVISION"},
+   {"mm": [414.3, 68.7, 422.9, 73.0], "text": "APP"},
+   {"mm": [73.2, 62.2, 108.8, 67.0], "text": "USE With"},
+   {"mm": [112.1, 62.2, 179.0, 67.5], "text": "THREE StANDOFF 3"},
+   {"mm": [235.5, 61.1, 253.5, 65.9], "text": "MAT'L"},
+   {"mm": [74.3, 56.8, 105.6, 62.3], "text": "3/4\" LonG"},
+   {"mm": [131.3, 57.0, 182.2, 62.8], "text": "TAP 4-40 ThrU"},
+   {"mm": [295.8, 52.7, 419.9, 61.3], "text": "WBS WARD-BECK SYSTEMS"},
+   {"mm": [238.4, 54.0, 257.1, 58.3], "text": "16 GA:"},
+   {"mm": [261.0, 54.0, 277.2, 58.8], "text": "ALUM"},
+   {"mm": [288.0, 42.7, 297.7, 47.1], "text": "DRN_"},
+   {"mm": [299.2, 42.7, 313.3, 47.5], "text": "GEB"},
+   {"mm": [288.0, 35.6, 318.2, 41.1], "text": "ENG.GEB\"%1"},
+   {"mm": [235.1, 31.3, 251.3, 35.6], "text": "Finish"},
+   {"mm": [347.6, 32.2, 399.4, 38.6], "text": "COVER PLATE"},
+   {"mm": [288.0, 29.1, 298.2, 34.7], "text": "CKD."},
+   {"mm": [236.6, 22.7, 297.1, 28.6], "text": "ANODIZE BLAcK APP"},
+   {"mm": [296.6, 16.6, 310.0, 20.9], "text": "SCALE"},
+   {"mm": [342.2, 12.7, 370.9, 19.2], "text": "207-03"},
+   {"mm": [406.1, 17.9, 418.6, 22.2], "text": "ISSUE"},
+   {"mm": [295.6, 14.0, 307.4, 17.9], "text": "5.01s"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [279.3, 10.6, 431.5, 79.0],
+  "from": "title-block words (training set)",
+  "text": [
+   "ISSUE DATE",
+   "REVISION",
+   "APP",
+   "WBS WARD-BECK SYSTEMS",
+   "DRN_",
+   "GEB",
+   "ENG.GEB\"%1",
+   "COVER PLATE",
+   "CKD.",
+   "SCALE",
+   "207-03",
+   "ISSUE",
+   "5.01s"
+  ]
+ },
+ "dots": [{"c": [31.8, 11.7], "r": 0.6, "lines": 2}],
+ "summary": [
+  "- **Sheet:** mechanical B 207-03-001, size B 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–431 mm across, 9–298 mm up",
+  "- **Outlines:** line 214 rings, 2,938 straight (7,533 mm) / 385 curved (510 mm); text 286 rings, 2,053 straight (2,468 mm) / 594 curved (918 mm); tb 16 rings, 139 straight (260 mm) / 19 curved (29.2 mm)",
+  "- **Centre lines:** 2,724 paths (44 closed); straight 5,706 mm, curved 20.5 mm; horizontal 2,776 mm, vertical 1,437 mm, diagonal 1,494 mm",
+  "- **Circles and arcs:** 1 circles, 3 arcs; largest r 1.6 @ (131.1, 183.1)",
+  "- **Closed boxes:** 11 (10 in the title block); named: MAT'L ALUM 16 GA:",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 46 in 36 lines: 6.15O · 457 · Ttp · 20 · 25 · 570 · 1.470 · 1.407 · 2.94 · 125 · 2 HOLES · 125 DIA",
+  "- **Title block:** (279, 11)–(432, 79) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN_ · GEB · ENG.GEB\"%1 · COVER PLATE · CKD. · SCALE · 207-03 · ISSUE · 5.01s"
+ ]
+}

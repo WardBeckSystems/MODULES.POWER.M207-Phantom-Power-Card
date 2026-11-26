@@ -1,0 +1,85 @@
+{
+ "drawing": "Modules/POWER/M207/MANUALS/1982 - M207 - Phantom Power Card (2).pdf",
+ "page": 5,
+ "version": 1,
+ "trace": "_traces/23ae6f3c7da2f843-p5.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1397, 2000],
+  "mm": [301.6, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "5", "pages": "7"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [15.5, 18.6, 295.6, 431.8],
+ "outlines": {
+  "line": {"rings": 82, "straight": {"n": 1582, "mm": 4747.2}, "curved": {"n": 235, "mm": 373.0}},
+  "text": {"rings": 131, "straight": {"n": 1088, "mm": 1348.6}, "curved": {"n": 333, "mm": 508.5}}
+ },
+ "circles": [
+  {"c": [183.9, 171.4], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [183.9, 157.8], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [136.3, 86.8, 157.4, 282.9], "w": 21.1, "h": 196.0, "from": "ring", "words": ["io", "ie"]},
+  {"mm": [137.5, 269.7, 156.3, 282.0], "w": 18.8, "h": 12.3, "from": "ring"},
+  {"mm": [137.5, 256.9, 156.3, 269.4], "w": 18.8, "h": 12.5, "from": "ring"},
+  {"mm": [137.5, 243.8, 156.3, 256.3], "w": 18.8, "h": 12.5, "from": "ring"},
+  {"mm": [137.5, 229.9, 156.3, 243.3], "w": 18.8, "h": 13.4, "from": "ring"},
+  {"mm": [137.5, 217.4, 156.5, 229.7], "w": 19.0, "h": 12.3, "from": "ring"},
+  {"mm": [137.5, 204.5, 156.3, 216.8], "w": 18.8, "h": 12.4, "from": "ring"},
+  {"mm": [137.5, 191.3, 156.3, 203.6], "w": 18.8, "h": 12.3, "from": "ring"},
+  {"mm": [137.5, 178.1, 156.3, 190.2], "w": 18.8, "h": 12.1, "from": "ring"},
+  {"mm": [137.5, 165.4, 156.3, 177.5], "w": 18.8, "h": 12.1, "from": "ring"},
+  {"mm": [137.5, 151.6, 156.3, 164.9], "w": 18.8, "h": 13.4, "from": "ring", "words": ["io"]},
+  {"mm": [137.5, 138.1, 156.3, 150.9], "w": 18.8, "h": 12.8, "from": "ring"},
+  {"mm": [137.5, 125.2, 156.1, 137.7], "w": 18.6, "h": 12.5, "from": "ring"},
+  {"mm": [137.3, 112.1, 156.1, 124.6], "w": 18.8, "h": 12.5, "from": "ring"},
+  {"mm": [137.1, 98.6, 156.1, 111.2], "w": 19.1, "h": 12.6, "from": "ring"}
+ ],
+ "text": {
+  "words": 38,
+  "lines": [
+   {"mm": [16.6, 406.1, 127.8, 411.6], "text": "WARC-BECK SYSTEMB LTC"},
+   {"mm": [123.3, 363.4, 182.9, 368.4], "text": "CONNECTOR LA YOU"},
+   {"mm": [102.8, 350.4, 141.2, 355.4], "text": "104201 24V tu"},
+   {"mm": [145.7, 350.4, 196.0, 355.4], "text": "48V CONV ERT ER"},
+   {"mm": [165.8, 272.9, 238.8, 277.9], "text": ".21oV SUPPLY VOLTAGE"},
+   {"mm": [165.6, 259.9, 233.0, 265.0], "text": "·48 PHANTOM POWER"},
+   {"mm": [165.6, 245.7, 173.6, 253.4], "text": "Ne"},
+   {"mm": [165.6, 233.0, 173.6, 238.0], "text": "NO"},
+   {"mm": [165.6, 220.2, 173.6, 225.3], "text": "NO"},
+   {"mm": [165.2, 206.6, 172.7, 214.1], "text": "Ne"},
+   {"mm": [165.6, 193.4, 173.6, 198.5], "text": "NO"},
+   {"mm": [165.2, 180.1, 172.7, 187.7], "text": "Ne"},
+   {"mm": [165.2, 168.2, 190.4, 173.2], "text": "COMMON"},
+   {"mm": [145.1, 153.7, 150.9, 160.4], "text": "io"},
+   {"mm": [165.2, 154.4, 190.4, 159.4], "text": "COMMON"},
+   {"mm": [165.2, 141.2, 173.2, 146.2], "text": "NO"},
+   {"mm": [165.2, 128.0, 173.6, 133.3], "text": "NO"},
+   {"mm": [164.9, 114.9, 172.5, 122.5], "text": "Ne"},
+   {"mm": [164.9, 101.7, 173.8, 108.4], "text": "NC"},
+   {"mm": [144.7, 87.9, 150.7, 95.3], "text": "ie"},
+   {"mm": [164.9, 89.0, 172.9, 94.0], "text": "NO"},
+   {"mm": [257.4, 51.8, 276.1, 60.0], "text": "ps"},
+   {"mm": [247.0, 41.5, 266.6, 51.8], "text": "BS"},
+   {"mm": [226.9, 21.4, 243.5, 27.9], "text": "tp"},
+   {"mm": [220.4, 14.9, 239.2, 21.4], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 302 × 432 mm, 1397 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 16–296 mm across, 19–432 mm up",
+  "- **Outlines:** line 82 rings, 1,582 straight (4,747 mm) / 235 curved (373 mm); text 131 rings, 1,088 straight (1,349 mm) / 333 curved (508 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 2.2 @ (183.9, 171.4), r 2.1 @ (183.9, 157.8)",
+  "- **Closed boxes:** 15; named: io ie; io",
+  "- **Words (OCR):** 38 in 25 lines: WARC-BECK SYSTEMB LTC · CONNECTOR LA YOU · 104201 24V tu · 48V CONV ERT ER · .21oV SUPPLY VOLTAGE · ·48 PHANTOM POWER · Ne · NO · NO · Ne · NO · Ne"
+ ]
+}

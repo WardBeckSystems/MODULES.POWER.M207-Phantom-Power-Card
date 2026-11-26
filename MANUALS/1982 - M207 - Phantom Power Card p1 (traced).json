@@ -1,0 +1,92 @@
+{
+ "drawing": "Modules/POWER/M207/MANUALS/1982 - M207 - Phantom Power Card.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/116a18edece95c98-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1397, 2000],
+  "mm": [301.6, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "7"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [16.2, 27.3, 289.7, 427.5],
+ "outlines": {
+  "line": {"rings": 4, "straight": {"n": 553, "mm": 2587.9}, "curved": {"n": 41, "mm": 63.7}},
+  "text": {"rings": 260, "straight": {"n": 2154, "mm": 2612.5}, "curved": {"n": 560, "mm": 860.6}},
+  "tb": {"rings": 13, "straight": {"n": 169, "mm": 394.3}, "curved": {"n": 27, "mm": 36.9}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 29,
+  "lines": [
+   {"mm": [16.2, 404.2, 130.6, 411.8], "text": "WAAD-BECK SyStems LTD:"},
+   {"mm": [117.0, 362.3, 149.8, 369.2], "text": "TABLE OF"},
+   {"mm": [152.6, 362.3, 185.5, 369.2], "text": "CONTENTS"},
+   {"mm": [104.1, 349.3, 144.2, 355.8], "text": "m207 24v t0"},
+   {"mm": [147.0, 350.0, 158.9, 355.3], "text": "48V"},
+   {"mm": [161.3, 349.3, 198.4, 355.8], "text": "CONVERTER"},
+   {"mm": [29.1, 296.4, 57.6, 303.4], "text": "SECTION"},
+   {"mm": [212.7, 296.4, 229.9, 303.4], "text": "PAGE"},
+   {"mm": [68.9, 276.4, 133.4, 284.3], "text": "Circuit Description"},
+   {"mm": [212.9, 277.6, 223.0, 282.9], "text": "T-1"},
+   {"mm": [69.1, 270.3, 103.6, 276.8], "text": "Parts Iist"},
+   {"mm": [212.9, 271.2, 223.0, 276.7], "text": "2-1"},
+   {"mm": [234.3, 270.3, 246.1, 276.8], "text": "2-2"},
+   {"mm": [69.1, 263.8, 101.9, 270.3], "text": "Connector"},
+   {"mm": [104.5, 263.2, 128.5, 270.9], "text": "Layout"},
+   {"mm": [212.7, 263.8, 223.5, 270.3], "text": "3-1"},
+   {"mm": [69.5, 250.4, 101.9, 257.4], "text": "DRAWINGS"},
+   {"mm": [68.9, 237.1, 102.1, 245.0], "text": "Schematic"},
+   {"mm": [212.7, 237.5, 250.4, 244.0], "text": "8207-02-001"},
+   {"mm": [69.3, 230.1, 130.0, 237.6], "text": "Component Layout"},
+   {"mm": [212.7, 231.0, 250.4, 237.5], "text": "B207-06-001"},
+   {"mm": [214.8, 46.4, 262.1, 53.4], "text": "MANUAL ISSUE"},
+   {"mm": [222.8, 32.8, 274.2, 39.8], "text": "NOVEMBER 1982"}
+  ]
+ },
+ "title_block": {
+  "mm": [10.2, 37.8, 268.3, 420.5],
+  "from": "title-block words (training set)",
+  "text": [
+   "WAAD-BECK SyStems LTD:",
+   "TABLE OF",
+   "CONTENTS",
+   "m207 24v t0",
+   "48V",
+   "CONVERTER",
+   "SECTION",
+   "PAGE",
+   "Circuit Description",
+   "T-1",
+   "Parts Iist",
+   "2-1",
+   "2-2",
+   "Connector",
+   "Layout",
+   "3-1",
+   "DRAWINGS",
+   "Schematic",
+   "8207-02-001",
+   "Component Layout",
+   "B207-06-001",
+   "MANUAL ISSUE"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 302 × 432 mm, 1397 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 16–290 mm across, 27–428 mm up",
+  "- **Outlines:** line 4 rings, 553 straight (2,588 mm) / 41 curved (63.7 mm); text 260 rings, 2,154 straight (2,612 mm) / 560 curved (861 mm); tb 13 rings, 169 straight (394 mm) / 27 curved (36.9 mm)",
+  "- **Words (OCR):** 29 in 23 lines: WAAD-BECK SyStems LTD: · TABLE OF · CONTENTS · m207 24v t0 · 48V · CONVERTER · SECTION · PAGE · Circuit Description · T-1 · Parts Iist · 2-1",
+  "- **Title block:** (10, 38)–(268, 420) mm: WAAD-BECK SyStems LTD: · TABLE OF · CONTENTS · m207 24v t0 · 48V · CONVERTER · SECTION · PAGE · Circuit Description · T-1 · Parts Iist · 2-1 · 2-2 · Connector · Layout · 3-1 · DRAWINGS · Schematic · 8"
+ ]
+}
