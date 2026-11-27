@@ -1,0 +1,185 @@
+{
+ "module": "M207",
+ "source": {
+  "file": "MANUALS/1982 - M207 - Phantom Power Card (2).pdf",
+  "pages": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ]
+ },
+ "ocr_quality": 0.66,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": "M20 7 PHANTOM POWER SUPPLY",
+   "paragraphs": [
+    "The M207 Phantom Power Supply is 8 24 volt t o 48 vol l de to do; o;or'!ver ler. T h i..; s achieved with a push -pull r\"la\"al i\"\" o sci ll a to.and a YOl lag.. dou bl.... c ir-cu l l.",
+    "01 through 04 form I h.. push _pu ll r,,18xa tl0l\"l o sc ill a to.wh kh operates ala nominal r rrq u e n o;y o r 100 k H:z:. R4 i:l; adjusled tog lye a symmet ri o;al out pul \" t t h.. collectors of 01 and 0 3. The peak 10 peak AC YOl18ge on Ihe couec ecr-s o f 01 and 0 3 is in Ihe order o f 20 vol l S.",
+    "The vol lag e doubling a e tl o n Is a c.h iev..,j by pre-eharglng C8 10 Ihe 24 Yol l sup ply volt 390 throug l, CR 1, CR2 \"nd C R3.. The r\"eti fled 20 volt p pAC volt \"9\";'1 th\"\" eoe ee via C6, CR2 & CR3. The net effo<: t Is to o;ha r g e C8 to approx ima tel y!>!> v o ll:l;.",
+    "O!> is a series p a:l; s,-.,gu ill tor wl lh Its d o; output yollege set by:z:ener diode CR4. T h\" 48 vall d o; output yolt 8g e is addition ally filter e d by C l 0 CFt!> & C li."
+   ]
+  },
+  {
+   "heading": "PARTS LIST",
+   "paragraphs": [
+    "\"'201 24 V to 48V CONVERTER"
+   ]
+  },
+  {
+   "heading": "PART DESCRIPTION",
+   "paragraphs": [
+    "\"'G MF e PART NUMBER",
+    "ci Capaci1 0r Ph ilip\", 100 uF / 40 V",
+    "2200 p F / 6 30 V",
+    "1 u F / 2!!AJ V.",
+    "C'.\".1 u F/~ V. 344A81 101",
+    ". 3\"\"A8.1001(",
+    "z.2: uF / 63 V"
+   ]
+  },
+  {
+   "heading": "426ETH22",
+   "paragraphs": [
+    "CO>.. 2.2 uf /6 3 II"
+   ]
+  },
+  {
+   "heading": "... J.448 HA 2M2",
+   "paragraphs": [
+    "cu.. 21 pF",
+    "2222 -638 -58219",
+    "Diode",
+    "Motorola lN4003",
+    "CR'.\", Zene r- 'R IN47 57 \" CR> \" Motorola lNIoOO3",
+    "F utle 0.25'\" F8 B u ~'S AGe 1/4",
+    "Q'. National M o loro l a"
+   ]
+  },
+  {
+   "heading": "2N2 101",
+   "paragraphs": [
+    "Q' \" NllUofla' 2N4037 Q. \" M O lon> l.. 2N2102",
+    "R' Resistor 1/2W 51 Phil ip\"",
+    "R' T,.l m POI Pi her PTlOh 12.5 } SK R5 R e ~I Slor 1/4W S$ '\" Phil ip\"",
+    "R9 Res is tor\" 1!2W SI.., Philips"
+   ]
+  },
+  {
+   "heading": "PART DESCRIPTION",
+   "paragraphs": [
+    "\"'0 \"'0,,,.n NUMBER",
+    "R.... i.. lor-1!2W Resistor 1/4W",
+    "Fuse Holde.. s",
+    "Philips",
+    "L 'tlelf use toaoee T.. ~ n s l slor Heat Sinks B ir tch\".. lAL116",
+    "Fer-eit e Bead.. Pnll1 ps VK21 029/3a",
+    "was r..com mend t\"\" use o f.. ~ I\"cem..n t pll rt s made by Lh\" specified",
+    "manufactu........ for continued optimum eQuip \".. \",t p\"..f o r man ce."
+   ]
+  },
+  {
+   "heading": "P I CONNECTOR LAYOUT",
+   "paragraphs": [
+    "104201 24V tu 48V CONVERTER",
+    ",.21oV SUPPLY VOLTAGE",
+    "a ·48 PHANTOM POWER",
+    "3 Ne",
+    "s NO"
+   ]
+  },
+  {
+   "heading": "9 COMMON",
+   "paragraphs": [
+    "io COMMON"
+   ]
+  },
+  {
+   "heading": "NOTES:",
+   "paragraphs": [
+    "I. \"LL R.E.S1STOl<.S. M:..E ' / 4 W 5 \" A\"-JO \"L..L C\"''''ACIT o~S \\t..J..A.<l...f L)\\..1LES,S SP EC.IF IE. D OTHE.RW ISe:.."
+   ]
+  },
+  {
+   "heading": "2. L.....S.T C OMP'O\"'-JE..\\..1T",
+   "paragraphs": [
+    "DE:' S.Ic=.k.1\"\"'TI~~ ~ C I~.C ~ ~.",
+    "Ft,QS.R \\'2 3. USE PcB 14 · 0 32.",
+    "4. \\.E D R.,-r E BE\",-=::'",
+    "N O.- E \"\"4.",
+    "...., '11.w",
+    "Q' \\ 1~400\"3 C'G. 2\"'40 3 '7 ~ RG. -01 33 K CJa. 2 c.2.3"
+   ]
+  },
+  {
+   "heading": "I N 4 0 0::3 1~400~",
+   "paragraphs": [
+    "1':4-5 K. 2 +4-8 v",
+    "1/ -25 0.., c~ loa~/40..",
+    ". 1/2 S 0 v"
+   ]
+  },
+  {
+   "heading": "C.:'\\...5",
+   "paragraphs": [
+    "21p CIS 2 1 p",
+    "...80 ell / 51<. 0 4-2'2/ '''' e >1 210 2 CIO Z2/t.3oJ"
+   ]
+  },
+  {
+   "heading": "COMMOIJ",
+   "paragraphs": [
+    "~-----lL----------l ----l_\"::::::\"'-=\":::\"\"\"\"';7\"<:::\"':::\",_ = ----l --'- ---'-_---'-_ - - ' L_ _--'- ~ 10 C.O.......... O I.J",
+    "NOTE \"\"4.",
+    "ENG. G;e 8 24v to 48v CONVERTER"
+   ]
+  },
+  {
+   "heading": "APP I",
+   "paragraphs": [
+    "SCALE ISSUE B · 207-02 -001 2",
+    "100/40...",
+    "- R t 47 '/Z w FI",
+    "II t... I,. ~I",
+    "\"v v \" \"",
+    "~ v V I 2.'.1'403\"'7 tl",
+    "Jf•. 2,,)..,1<4037\"'\" 2W '2)O~",
+    "~' ii'\" ~I ~I if\" a i !"
+   ]
+  },
+  {
+   "heading": ".1 L",
+   "paragraphs": [
+    "~ Ii. ~ ~ til \"u •it ~I'\"Oi"
+   ]
+  },
+  {
+   "heading": "III",
+   "paragraphs": [
+    "2.... 2 10'2.. \"'~ ~I.... ~I ~Ion ~I ~r 2.,.2102 \"'~ •",
+    "III > J,",
+    "·u til \"I:1;'! '\"",
+    "a: III Q tilt: U",
+    "tb 0 I",
+    "u al",
+    "5 1<.,"
+   ]
+  },
+  {
+   "heading": "ENG. 6£13",
+   "paragraphs": [
+    "24'1 to 48'1 CONVERlER",
+    "COMPONENT l A,YOUT"
+   ]
+  },
+  {
+   "heading": "SCALE ISSUE",
+   "paragraphs": [
+    "B 2 0 7 -0 6 -0 o 1 2"
+   ]
+  }
+ ]
+}
