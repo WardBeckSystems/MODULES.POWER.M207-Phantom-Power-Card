@@ -4,13 +4,11 @@ Ward-Beck Systems M207, 1981|14. Wiki page: [M207 on WBSps.ca](https://wardbecks
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 23 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 10 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 5 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 54 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 8 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 22 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 11 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 4 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 53 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 7 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 17 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -217,8 +215,6 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSWQ4LWo2N01MRW8/view?resourcekey=0-HONMjFQUNiYS3FNM5KZfNw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSWQ4LWo2N01MRW8&resourcekey=0-HONMjFQUNiYS3FNM5KZfNw" width="240" alt="19xx - M207 - DOC - 1202-04-007 - OSCILLATOR CUE-SOLO RE-ENTRY AND AUX LEVEL SCHEMATIC.jpg"></a><br><sub>19xx - M207 - DOC - 1202-04-007 - OSCILLATOR CUE-SOLO RE-ENTRY AND AUX LEVEL SCHEMATIC · <a href="MECHANICAL/19xx%20-%20M207%20-%20DOC%20-%201202-04-007%20-%20OSCILLATOR%20CUE-SOLO%20RE-ENTRY%20AND%20AUX%20LEVEL%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1981 - 207-03-001 - COVER PLATE - DRN GEB - ENG GEB - ISS 1.jpg`
-
 ## 3-D model
 
 [`MECHANICAL/M207.stl`](MECHANICAL/M207.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M207)
@@ -236,13 +232,9 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKYnQwLV9iQ1dBUXM/view?resourcekey=0-YDoYbRlseGooGzP-bENGVg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKYnQwLV9iQ1dBUXM&resourcekey=0-YDoYbRlseGooGzP-bENGVg" width="240" alt="1982 - M207 - 07-06-001 - CONVERTER COMPONENT LAYOUT.jpg"></a><br><sub>1982|15 · 07-06-001 - CONVERTER COMPONENT LAYOUT · <a href="SCHEMATICS/1982%20-%20M207%20-%2007-06-001%20-%20CONVERTER%20COMPONENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQVV5dmFuelFnVEk/view?resourcekey=0-THUpqiJeQc-SHnp3UY_IeA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQVV5dmFuelFnVEk&resourcekey=0-THUpqiJeQc-SHnp3UY_IeA" width="240" alt="19xx - M207 - DOC - 1202-02-011 - REDRAWN FOR.jpg"></a><br><sub>19xx - M207 - DOC - 1202-02-011 - REDRAWN FOR · <a href="SCHEMATICS/19xx%20-%20M207%20-%20DOC%20-%201202-02-011%20-%20REDRAWN%20FOR%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `19xx - 207-02-001 - 24v TO 48v CONVERTER SCHEMATIC - DRN GEB - ENG GEB - ISS 2.jpg`, `M207 - P07 - Component Layout.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
-
-Not on Google Drive yet: `M207 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -273,7 +265,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - M207 - DOC - 1202-02-011 - REDRAWN FOR.kicad_sch](KICAD/19xx%20-%20M207%20-%20DOC%20-%201202-02-011%20-%20REDRAWN%20FOR.kicad_sch)
 - [M207 - P06 - Schematic.kicad_sch](KICAD/M207%20-%20P06%20-%20Schematic.kicad_sch)
 - [M207.kicad_sym](KICAD/M207.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
