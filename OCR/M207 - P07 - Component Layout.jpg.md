@@ -1,5 +1,5 @@
 # M207 - P07 - Component Layout.jpg
-Wiki page: [M207](../../../../PAGES/M207.md)
+Wiki page: [M207](../)
 
 
 - **Year:** unknown (title block (read by eye))

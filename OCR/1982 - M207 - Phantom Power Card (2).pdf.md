@@ -1,5 +1,5 @@
 # 1982 - M207 - Phantom Power Card (2).pdf
-Wiki page: [M207](../../../../PAGES/M207.md)
+Wiki page: [M207](../)
 
 
 - **Year:** 1982 (found in this file: "MANUAL ISSUE # 2 • W NOVEMBER 1982")

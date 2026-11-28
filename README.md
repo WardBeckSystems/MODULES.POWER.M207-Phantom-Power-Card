@@ -1,6 +1,6 @@
 # M207 Phantom Power Card · Power
 
-Ward-Beck Systems M207, 1981|14. Wiki page: [M207 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M207.html)
+Ward-Beck Systems M207, 1981|14. Wiki page: [M207 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.POWER.M207-Phantom-Power-Card/)
 
 | Folder | What is in it | Files |
 |---|---|---|

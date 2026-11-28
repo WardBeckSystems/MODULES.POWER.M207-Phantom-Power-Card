@@ -1,5 +1,5 @@
 # 1981 - 207-03-001 - COVER PLATE - DRN GEB - ENG GEB - ISS 1.jpg
-Wiki page: [M207](../../../../PAGES/M207.md)
+Wiki page: [M207](../)
 
 
 - **Year:** 1981 (title block date)

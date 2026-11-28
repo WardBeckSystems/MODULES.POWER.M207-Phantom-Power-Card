@@ -1,5 +1,5 @@
 # 19xx - 207-02-001 - 24v TO 48v CONVERTER SCHEMATIC - DRN GEB - ENG GEB - ISS 2.jpg
-Wiki page: [M207](../../../../PAGES/M207.md)
+Wiki page: [M207](../)
 
 
 - **Year:** unknown (title block (read by eye))
